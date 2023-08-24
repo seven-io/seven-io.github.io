@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,16 +23,16 @@ defaults:
       path: "assets/img"
     values:
       image: true
-title: Sms77 Development Blog
-email: support@sms77.io
+title: seven Development Blog
+email: support@seven.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Our development blog mainly for announcements regarding third party plugins for the Sms77.io SMS Gateway.
+  Our development blog mainly for announcements regarding third party plugins for the seven.io SMS Gateway.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: sms77.io
-github_username: sms77io
-linkedin_username: sms77
-twitter_username: sms77io
+facebook_username: sevencommunications7
+github_username: seven-io
+# linkedin_username: sevenio
+twitter_username: sevenio7
 timezone: Europe/Berlin
 # Build settings
 theme: minima

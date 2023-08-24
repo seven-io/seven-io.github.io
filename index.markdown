@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Sms77 logo](/assets/img/logo.png)
+![](assets/img/logo.svg "seven Logo")
